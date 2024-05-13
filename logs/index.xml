@@ -2,106 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logs on Mikkes blogg</title>
-    <link>/logs/</link>
+    <link>/blogg-public/logs/</link>
     <description>Recent content in Logs on Mikkes blogg</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Apr 2024 07:57:36 +0200</lastBuildDate><atom:link href="/logs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 07:57:36 +0200</lastBuildDate><atom:link href="/blogg-public/logs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
-      <link>/emneknagger/logs/hugo/</link>
+      <link>/blogg-public/emneknagger/logs/hugo/</link>
       <pubDate>Sun, 28 Apr 2024 07:57:36 +0200</pubDate>
       
-      <guid>/emneknagger/logs/hugo/</guid>
+      <guid>/blogg-public/emneknagger/logs/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>terminal</title>
-      <link>/emneknagger/logs/terminal/</link>
+      <link>/blogg-public/emneknagger/logs/terminal/</link>
       <pubDate>Sat, 27 Apr 2024 07:57:36 +0200</pubDate>
       
-      <guid>/emneknagger/logs/terminal/</guid>
+      <guid>/blogg-public/emneknagger/logs/terminal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>/emneknagger/logs/design/</link>
+      <link>/blogg-public/emneknagger/logs/design/</link>
       <pubDate>Fri, 26 Apr 2024 09:16:06 +0200</pubDate>
       
-      <guid>/emneknagger/logs/design/</guid>
+      <guid>/blogg-public/emneknagger/logs/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nvim</title>
-      <link>/emneknagger/logs/nvim/</link>
+      <link>/blogg-public/emneknagger/logs/nvim/</link>
       <pubDate>Fri, 26 Apr 2024 09:16:06 +0200</pubDate>
       
-      <guid>/emneknagger/logs/nvim/</guid>
+      <guid>/blogg-public/emneknagger/logs/nvim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>/emneknagger/logs/javascript/</link>
+      <link>/blogg-public/emneknagger/logs/javascript/</link>
       <pubDate>Wed, 24 Apr 2024 08:43:09 +0200</pubDate>
       
-      <guid>/emneknagger/logs/javascript/</guid>
+      <guid>/blogg-public/emneknagger/logs/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>/emneknagger/logs/git/</link>
+      <link>/blogg-public/emneknagger/logs/git/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/emneknagger/logs/git/</guid>
+      <guid>/blogg-public/emneknagger/logs/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tailwind</title>
-      <link>/emneknagger/logs/tailwind/</link>
+      <link>/blogg-public/emneknagger/logs/tailwind/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/emneknagger/logs/tailwind/</guid>
+      <guid>/blogg-public/emneknagger/logs/tailwind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>curl</title>
-      <link>/emneknagger/logs/curl/</link>
+      <link>/blogg-public/emneknagger/logs/curl/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/emneknagger/logs/curl/</guid>
+      <guid>/blogg-public/emneknagger/logs/curl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jq</title>
-      <link>/emneknagger/logs/jq/</link>
+      <link>/blogg-public/emneknagger/logs/jq/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/emneknagger/logs/jq/</guid>
+      <guid>/blogg-public/emneknagger/logs/jq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>/emneknagger/logs/linux/</link>
+      <link>/blogg-public/emneknagger/logs/linux/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/emneknagger/logs/linux/</guid>
+      <guid>/blogg-public/emneknagger/logs/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vim</title>
-      <link>/emneknagger/logs/vim/</link>
+      <link>/blogg-public/emneknagger/logs/vim/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/emneknagger/logs/vim/</guid>
+      <guid>/blogg-public/emneknagger/logs/vim/</guid>
       <description></description>
     </item>
     

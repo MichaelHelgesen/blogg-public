@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>skriving on Mikkes blogg</title>
-    <link>/emneknagger/tags/skriving/</link>
+    <link>/blogg-public/emneknagger/tags/skriving/</link>
     <description>Recent content in skriving on Mikkes blogg</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 Apr 2024 14:03:58 +0200</lastBuildDate><atom:link href="/emneknagger/tags/skriving/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2024 14:03:58 +0200</lastBuildDate><atom:link href="/blogg-public/emneknagger/tags/skriving/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hvordan velge gode kilder</title>
-      <link>/blogg/hvordan-velge-gode-kilder/</link>
+      <link>/blogg-public/blogg/hvordan-velge-gode-kilder/</link>
       <pubDate>Wed, 17 Apr 2024 14:03:58 +0200</pubDate>
       
-      <guid>/blogg/hvordan-velge-gode-kilder/</guid>
+      <guid>/blogg-public/blogg/hvordan-velge-gode-kilder/</guid>
       <description>At nivået og kvaliteten på egen kunnskap beror på kildene er kanskje opplagt, men hvordan finner og velger man de beste ressursene?
 I følge Kildekompasset.no finnes det to typer kilder å velge mellom: primærkilder og sekundærkilder.
 Et eksempel på en primærkilde er en forskers forskningsrapport, mens en avisartikkel som omtaler forskningsrapporten er en sekundærkilde.
@@ -20,10 +20,10 @@ Førstnevnte er å foretrekke, da den er basert på opphavspersonens egne tanker
     
     <item>
       <title>Min tredje seksjon i zettelkasten</title>
-      <link>/journal/min-tredje-seksjon-i-zettelkasten/</link>
+      <link>/blogg-public/journal/min-tredje-seksjon-i-zettelkasten/</link>
       <pubDate>Wed, 17 Apr 2024 14:03:58 +0200</pubDate>
       
-      <guid>/journal/min-tredje-seksjon-i-zettelkasten/</guid>
+      <guid>/blogg-public/journal/min-tredje-seksjon-i-zettelkasten/</guid>
       <description>Jeg startet min zettelkasten med notater om læring og skriving. I dag utvidet jeg notat-systemet med en ny seksjon om kreativitet.
 Zettelkasten deles ikke inn i rigide kategorier1 som for eksempel en mappestruktur i en app eller på en PC, men det er likevel ryddig å ha en simpel overordnet seksjonering for enklere håndtering.
 Niklas Luhmann, opphavsmannen til zettelkasten, hadde også løse kategorier som dette i følge Scott P. Scheper.</description>

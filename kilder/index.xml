@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kilder on Mikkes blogg</title>
-    <link>/kilder/</link>
+    <link>/blogg-public/kilder/</link>
     <description>Recent content in kilder on Mikkes blogg</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/kilder/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/blogg-public/kilder/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
